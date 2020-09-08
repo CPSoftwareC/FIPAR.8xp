@@ -1,9 +1,26 @@
-# FIPAR.8xp
-Prgm FIPAR.8xp, desenvolvido em TI-BASIC.
+<!-- README.md Versão 1.1 -->
+<h1>Prgm FIPAR (<em><strong>Funções ímpares  e pares</em></strong>)</h1>
+
+<h3>Biografia</h3>
+
+<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo de Funções. Indica se uma determinada equação, dado pelo usúario, é <em>ímpar <strong>[F(-x)=-F(x)]</strong></em>, <em>par <strong>[F(x)=F(-x)]</strong></em> ou <em>nem ímpar nem par</em>.</p>
+
+<h2>Versão <em><strong>1.1</strong></em></h2>
+
+<h3>Compatibilidade</h3>
+
+<ul>
+ <li>TI-84 Plus CE</li>
+ <li>TI-84 Plus CE-T</li>
+ <li>TI-84 Plus CE-T Python Edition</li>
+ <li>TI-84 Plus C Silver Edition</li>
+ <li>TI-83 Premium CE</li>
+ <li>TI-83 Premium CE Edition Python</li>
+</ul>
 
 <h3>Como instalar</h3>
 
-<p>Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
+<p>Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
 <ol>
      <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
      <li>Envia o <em>FIPAR.8xp</em></li>
@@ -26,5 +43,4 @@ Prgm FIPAR.8xp, desenvolvido em TI-BASIC.
 
 <h2>Programador: <strong><em>J.C.P.</em></strong></h2>
 
-<h4><a href="https://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
-
+<h4><a href="http://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
