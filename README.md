@@ -1,11 +1,13 @@
-<!-- README.md Versão 1.1 -->
+<!-- README.md Versão 1.2 -->
 <h1>Prgm FIPAR (<em><strong>Funções ímpares  e pares</em></strong>)</h1>
+
+![menu](https://user-images.githubusercontent.com/67112321/97226239-a04af900-17cb-11eb-8041-c3176a9f8f51.png)
 
 <h3>Biografia</h3>
 
 <p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo de Funções. Indica se uma determinada equação, dado pelo usúario, é <em>ímpar <strong>[F(-x)=-F(x)]</strong></em>, <em>par <strong>[F(x)=F(-x)]</strong></em> ou <em>nem ímpar nem par</em>.</p>
 
-<h2>Versão <em><strong>1.1</strong></em></h2>
+<h2>Versão <em><strong>1.1.1</strong></em></h2>
 
 <h3>Compatibilidade</h3>
 
