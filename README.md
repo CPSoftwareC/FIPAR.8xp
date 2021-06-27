@@ -1,5 +1,7 @@
-<!-- README.md Versão 1.2 -->
+<!-- README.md Versão 1.3 -->
 <h1>Prgm FIPAR (<em><strong>Funções ímpares  e pares</em></strong>)</h1>
+
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/FIPAR.8xp/total?style=plastic)
 
 ![menu](https://user-images.githubusercontent.com/67112321/97226239-a04af900-17cb-11eb-8041-c3176a9f8f51.png)
 
