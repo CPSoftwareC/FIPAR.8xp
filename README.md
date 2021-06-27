@@ -7,7 +7,7 @@
 
 <h3>Biografia</h3>
 
-<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo de Funções. Indica se uma determinada equação, dado pelo usúario, é <em>ímpar <strong>[F(-x)=-F(x)]</strong></em>, <em>par <strong>[F(x)=F(-x)]</strong></em> ou <em>nem ímpar nem par</em>.</p>
+<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo de Funções. Indica se uma determinada equação, dado pelo usuário, é <em>ímpar <strong>[F(-x)=-F(x)]</strong></em>, <em>par <strong>[F(x)=F(-x)]</strong></em> ou <em>nem ímpar nem par</em>.</p>
 
 <h2>Versão <em><strong>1.1.1</strong></em></h2>
 
