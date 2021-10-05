@@ -1,6 +1,6 @@
 # FIPAR (_Funções ímpares  e pares_)
 
-![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/FIPAR.8xp/total?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/FIPAR.8xp/total?label=Downloads&style=plastic)
 
 ![menu](https://user-images.githubusercontent.com/67112321/97226239-a04af900-17cb-11eb-8041-c3176a9f8f51.png)
 
@@ -8,7 +8,7 @@
 
 Desenvolvido em TI-BASIC. Uso para auxiliar o estudo de Funções. Indica se uma determinada equação, dado pelo usuário, é _ímpar **[F(-x)=-F(x)]**_, _par **[F(x)=F(-x)]**_ ou _nem ímpar nem par_.
 
-## Versão _**1.1.1**_
+## Versão _**1.2**_
 
 ### Compatibilidade
 
