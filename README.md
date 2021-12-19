@@ -4,7 +4,7 @@
 
 ![menu](https://user-images.githubusercontent.com/67112321/97226239-a04af900-17cb-11eb-8041-c3176a9f8f51.png)
 
-### Biografia
+### Descrição
 
 Desenvolvido em TI-BASIC. Uso para auxiliar o estudo de Funções. Indica se uma determinada equação, dado pelo usuário, é _ímpar **[F(-x)=-F(x)]**_, _par **[F(x)=F(-x)]**_ ou _nem ímpar nem par_.
 
@@ -38,7 +38,7 @@ Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas d
 1. <kbd>prgm</kbd>
 2. <kbd>alpha</kbd> + <kbd>cos</kbd>
 3. Selecionar o _FIPAR_
-4. E por ultimo pressionar <kbd>enter</kbd>
+4. E por último pressionar <kbd>enter</kbd>
 
 ## Programador: _J.C.P._
 
