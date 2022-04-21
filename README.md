@@ -8,7 +8,7 @@
 
 Desenvolvido em TI-BASIC. Uso para auxiliar o estudo de Funções. Indica se uma determinada equação, dado pelo usuário, é _ímpar **[F(-x)=-F(x)]**_, _par **[F(x)=F(-x)]**_ ou _nem ímpar nem par_.
 
-## Versão _**1.2**_
+## Versão _1.3.0_
 
 ### Compatibilidade
 
@@ -40,6 +40,6 @@ Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas d
 3. Selecionar o _FIPAR_
 4. E por último pressionar <kbd>enter</kbd>
 
-## Programador: _J.C.P._
+## Programador: _jp2435_
 
-#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
+#### [Website da CP Software](http://cpsoftware.pt)
